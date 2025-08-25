@@ -1,0 +1,8 @@
+ip-location-tracker/.env
+node_modules/
+.DS_Store
+test.js
+
+frontend/node_modules/
+frontend/.env.local
+frontend/.env.example
